@@ -1,0 +1,6 @@
+@import './../fonts/font.css';
+
+h2{
+  font-size: 3rem;
+  color: teal;
+}
